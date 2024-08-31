@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714678217295",
+    "project_id": "carwash-and-service",
+    "storage_bucket": "carwash-and-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714678217295:android:f9f8418f08e51ae771583a",
+        "android_client_info": {
+          "package_name": "com.example.carwash_and_service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQa8hzIGO5uS91_sM9CnJ4QVVR_QGvO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
